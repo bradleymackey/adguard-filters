@@ -1,5 +1,7 @@
-# AdGuard YouTube Filter
+# AdGuard Filters
 
-This *just* blocks YouTube.
-All of YouTube.
-You should use it if YouTube is distracting you from working!
+You might find these helpful, mainly to stop distractions.
+
+## Filters
+
+- `youtube.txt`: stops you from watching YouTube videos
